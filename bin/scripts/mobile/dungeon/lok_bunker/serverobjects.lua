@@ -1,0 +1,7 @@
+includeFile("dungeon/lok_bunker/rev_elder_bunker.lua")
+includeFile("dungeon/lok_bunker/rev_protector_bunker.lua")
+includeFile("dungeon/lok_bunker/rev_spellweaver_bunker.lua")
+includeFile("dungeon/lok_bunker/rev_ranger_bunker.lua")
+includeFile("dungeon/lok_bunker/rev_sentinel_bunker.lua")
+includeFile("dungeon/lok_bunker/rev_initiate_bunker.lua")
+includeFile("dungeon/lok_bunker/rev_slave_bunker.lua")
